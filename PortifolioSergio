@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Portfólio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <section class="portfolio-section">
+        <div class="background-image"></div>
+        <div class="content">
+            <div class="container">
+                <div class="profile-section">
+                    <img src="imagens/CorpoInteiro.jpg" alt="Foto de Corpo Inteiro" class="profile-image">
+                    <p class="personal-presentation">Apresentação pessoal</p>
+                </div>
+                <div class="projects-section">
+                    <a href="caminho/para/projeto1" class="project-button">Projeto 1 - Windows Form</a>
+                    <a href="caminho/para/projeto2" class="project-button">Projeto 2 - Mobile</a>
+                    <a href="caminho/para/projeto3" class="project-button">Projeto 3 - Jogo</a>
+                </div>
+                <div class="resume-section">
+                    <a href="caminho/para/curriculo" class="resume-button">Ver currículo</a>
+                </div>
+            </div>
+        </div>
+ 
+    </section>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+</body>
+</html>
